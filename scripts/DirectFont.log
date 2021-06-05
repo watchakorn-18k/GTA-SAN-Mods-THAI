@@ -1,0 +1,10 @@
+CNewFonts::Initialise()
+CNewFonts::Initialise: Initialised font  at index 0
+CNewFonts::Initialise: Initialised font  at index 1
+CNewFonts::Initialise: Initialised font  at index 2
+CNewFonts::Initialise: Initialised font  at index 3
+CNewFonts::Lost()
+CNewFonts::Reset()
+CNewFonts::Lost()
+CNewFonts::Reset()
+CNewFonts::Shutdown()
